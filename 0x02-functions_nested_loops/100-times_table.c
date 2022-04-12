@@ -19,7 +19,9 @@ for (b = 0; b <= n; b++)
 {
 rep = a * b;
 if (b == 0)
+{
 _putchar('0' + rep);
+}
 else if (rep < 10)
 {
 _putchar(' ');
@@ -27,6 +29,7 @@ _putchar(' ');
 _putchar('0' + rep);
 }
 else if (rep < 100)
+{
 _putchar(' ');
 _putchar('0' + rep / 10);
 _putchar('0' + rep % 10);
@@ -38,6 +41,7 @@ _putchar('0' + (rep - 100) / 10);
 _putchar('0' + rep % 10);
 }
 if (b < n)
+{
 _putchar(',');
 _putchar(' ');
 }

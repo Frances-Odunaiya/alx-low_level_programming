@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: This is the file carrying the answer for the first task 
+ * Description: This is the file carrying the answer for the first task
  *
  * Return: nothing, return void
  */

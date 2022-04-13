@@ -1,17 +1,18 @@
 #include <studio.h>
+
 /**
- * main - causes an infinite loop
- *
+ * main - Entry Point
+ * Description: causes an infinte loop
  * Return: 0
  */
+
 int main(void)
 {
 int i;
 
-printf("infinte loop incoming :(\n");
+printf("infinite loop incoming :(\n");
 
 i = 0;
-
 /*
  * while (i < 10)
  * {
@@ -19,7 +20,8 @@ i = 0;
  * putchar(i);
  * }
  */
+printf("infinite loop avoided! \\o/\n");
 
-printf("infinte loop avoided! \\o/\n");
 return (0);
+
 }

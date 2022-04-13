@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Entry Point
  * Description: causes an infinte loop

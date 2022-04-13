@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * Description: causes an infinite loop
+ * main - causes an infinite loop
  * Return: 0
  */
 
@@ -16,7 +15,7 @@ i = 0;
 /*
  * while (i < 10)
  * {
- * putchar(i);
+ *	 putchar(i);
  * }
  */
 printf("infinite loop avoided! \\o/\n");

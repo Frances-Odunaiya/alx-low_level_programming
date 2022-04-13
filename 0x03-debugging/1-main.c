@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - Entry Point
  * Description: causes an infinte loop
@@ -10,6 +9,7 @@ int main(void)
 int i;
 
 printf("infinite loop incoming :(\n");
+
 i = 0;
 
 /*
@@ -19,7 +19,6 @@ i = 0;
  * putchar(i);
 }
 */
-
 printf("infinite loop avoided! \\o/\n");
 return (0);
 }

@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
  * main - Entry Point
  * Description: causes an infinte loop
  * Return: 0
  */
-
 int main(void)
 {
 int i;
@@ -21,7 +19,5 @@ i = 0;
  * }
  */
 printf("infinite loop avoided! \\o/\n");
-
 return (0);
-
 }

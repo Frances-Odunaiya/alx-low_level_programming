@@ -14,3 +14,4 @@ void print_square(int sixe);
 void print_triangle(int sixe);
 void print_number(int n);
 
+#endif

@@ -3,7 +3,7 @@
  * rot13 - encodes a string using rot13
  * @str: the string to encode
  *
- * Return: encode string 
+ * Return: encode string
  */
 char *rot13(char *str)
 {
@@ -11,6 +11,7 @@ char *rot13(char *str)
 
 	char alpha[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
 	char rot[] = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
+
 	i = 0;
 	while (str[i] != '\0')
 	{

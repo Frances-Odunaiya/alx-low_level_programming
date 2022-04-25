@@ -29,5 +29,8 @@ char *cap_string(char *str)
 	
 		j++;
 	}
-	i++;
+
+		i++;
+	}
+	return (str);
 }

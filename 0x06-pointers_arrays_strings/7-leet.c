@@ -15,7 +15,7 @@ char *leet(char *str)
 	while (str[i] != '\0')
 	{
 		j = 0;
-		while (c[j] != '\0'')
+		while (c[j] != '\0')
 		{
 			if (str[i] == c[j])
 			{

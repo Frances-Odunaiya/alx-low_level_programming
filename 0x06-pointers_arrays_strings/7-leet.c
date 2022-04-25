@@ -12,7 +12,7 @@ char *leet(char *str)
 	char n[] = "4433007711";
 
 	i = 0;
-	while (str[i]!= '\0')
+	while (str[i] != '\0')
 	{
 		j = 0;
 		while (c[j] != '\0'')
@@ -27,4 +27,3 @@ char *leet(char *str)
 	}
 	return (str);
 }
-		

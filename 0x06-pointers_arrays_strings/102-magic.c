@@ -1,10 +1,5 @@
 #include <stdio.h>
-/**
- * main - Entry point
- * Description: prints 98
- *
- * Return: 0 (success)
- */
+
 int main(void)
 {
 	int n;

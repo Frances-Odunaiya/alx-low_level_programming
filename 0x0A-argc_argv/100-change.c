@@ -50,6 +50,6 @@ else
 printf("Error\n");
 return (1);
 }
-printf("%d\n", coind);
+printf("%d\n", coins);
 return (0);
 }

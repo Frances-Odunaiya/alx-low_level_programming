@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 	{
 	res *= atoi(argv[i]);
 	}
-	printf("5D\N", RES);
+	printf("%d\N", res);
 	}
 	return (0);
 }

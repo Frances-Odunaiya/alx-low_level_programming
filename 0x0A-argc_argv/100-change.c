@@ -18,8 +18,6 @@ if (argc == 2)
 cents = atoi(*(argv + 1));
 while (cents > 0)
 {
-if (cents > 0)
-{
 if (cents % 25 < cents)
 {
 cents -= 25;

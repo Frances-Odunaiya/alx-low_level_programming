@@ -13,7 +13,7 @@ if (name == NULL || f == NULL)
 {
 return;
 }
-esle{
+else{
 f(name);
 }
 }

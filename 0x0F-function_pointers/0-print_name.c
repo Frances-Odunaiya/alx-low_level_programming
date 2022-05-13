@@ -13,7 +13,6 @@ if (name == NULL || f == NULL)
 {
 return;
 }
-}
 else
 {
 f(name);

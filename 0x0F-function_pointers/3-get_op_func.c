@@ -3,7 +3,7 @@
 #include <string.h>
 
 /**
- * get_op_func - compares function with pointer and returns the equal
+ * get_op_func - Compares function with pointer and returns the equal
  * @s: points a char
  * Return: Returns the function and the operator when equal
  **/
